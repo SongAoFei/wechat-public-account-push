@@ -112,14 +112,14 @@ USE_PASSAGE: 'server-chan',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '2001', date: '08-15',
+          type: '生日', name: '宝贝', year: '2001', date: '09-24',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '*生日', name: '宋傲飞', year: '2000', date: '06-06',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2021', date: '11-14',
+          type: '节日', name: '三周年纪念日', year: '2024', date: '11-14',
         },
       ],
       // 我们在一起已经有xxxx天了的配置

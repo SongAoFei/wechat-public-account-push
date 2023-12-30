@@ -16,17 +16,20 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
 
-      明日天气：{{tian_api_weather_weather_1.DATA }}
+      明日天气：{{tian_api_weather_weather_1.DATA}}
 
-      生活指数提示：{{tian_api_weather_tips_{offset}.DATA}}
+      生活指数提示：{{tian_api_weather_tips_1.DATA}}
       
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
-      {{tian_api_morning_greeting.DATA}}
-      {{tian_api_evening_greeting.DATA}}
-      {{tian_api_network_hot.DATA}}
-      每日一句：{{note_en.DATA }}
+
+      早安心语：{{tian_api_morning_greeting.DATA}}
+
+      全网热搜：{{tian_api_network_hot.DATA}}
+
+
+      每日一句：{{note_en.DATA}}
       
 
       

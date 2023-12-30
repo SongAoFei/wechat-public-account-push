@@ -21,6 +21,7 @@ const TEMPLATE_CONFIG = [
       风级🍃: {{wind_scale.DATA}}
 
       每日一句💌：
+      
       {{note_en.DATA}}
       
       

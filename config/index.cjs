@@ -125,6 +125,12 @@ USE_PASSAGE: 'server-chan',
           type: '节日', name: '下个姨妈', year: '2024', date: '1-26',
         },
       ],
+        /**
+   * 限制重要节日的展示条目, 需要填写数字;
+   * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
+   * 如果为0, 则默认展示全部
+   */
+  FESTIVALS_LIMIT: 4,
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子

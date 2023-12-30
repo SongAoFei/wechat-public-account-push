@@ -40,16 +40,16 @@ USE_PASSAGE: 'server-chan',
     oneTalk: true,
     
     // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: true,
+    earthyLoveWords: false,
     
     // 朋友圈文案, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    momentCopyrighting: true,
+    momentCopyrighting: false,
     
     // 毒鸡汤, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poisonChickenSoup: true,
+    poisonChickenSoup: false,
     
     // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poetry: true,
+    poetry: false,
 
     /** 星座运势 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -61,7 +61,7 @@ USE_PASSAGE: 'server-chan',
   
     /** 学生课表 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    courseSchedule: true,
+    courseSchedule: false,
   },
   
   TIAN_API: {
@@ -120,6 +120,9 @@ USE_PASSAGE: 'server-chan',
         },
         {
           type: '节日', name: '三周年纪念日', year: '2024', date: '11-14',
+        },
+        {
+          type: '节日', name: '下个姨妈', year: '2024', date: '1-26',
         },
       ],
       // 我们在一起已经有xxxx天了的配置

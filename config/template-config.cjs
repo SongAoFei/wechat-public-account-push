@@ -31,9 +31,9 @@ const TEMPLATE_CONFIG = [
       
       今天是我们相识的第{{love_day.DATA}}天❤️，爱你！
       
-      生理期已经过去了{{sl1_day}天，注意饮食，多喝水哦~
+      生理期已经过去了{{sl1_day.DATA}天，注意饮食，多喝水哦~
       
-      距离下次生理期还有{{sl2_day}}天~
+      距离下次生理期还有{{sl2_day.DATA}}天~
       
       {{birthday_message.DATA}}
       
@@ -43,6 +43,7 @@ const TEMPLATE_CONFIG = [
       {{moment_copyrighting.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
+      
       {{lover_prattle.DATA}}
     `
   },

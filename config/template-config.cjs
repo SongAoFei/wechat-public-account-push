@@ -29,7 +29,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天❤️，爱你！
+      今天是我们相识的第**{{love_day.DATA}}**天❤️，爱你！
       
       生理期已经过去了{{sl1_day.DATA}}天，注意饮食，多喝水哦~
       

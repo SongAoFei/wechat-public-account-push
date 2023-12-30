@@ -136,9 +136,9 @@ USE_PASSAGE: 'server-chan',
         // 在一起的日子
         { keyword: 'love_day', date: '2021-11-14' },
         // 上次生理期
-        { keyword: '生理1_day', date: '2023-12-26' },
+        { keyword: 'sl1_day', date: '2023-12-26' },
         // 下次生理期
-        { keyword: '生理2_day', date: '2024-1-26' },
+        { keyword: 'sl2_day', date: '2024-1-26' },
         
       ],
     },

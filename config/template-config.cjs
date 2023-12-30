@@ -20,7 +20,8 @@ const TEMPLATE_CONFIG = [
       
       风级🍃: {{wind_scale.DATA}}
 
-      每日一句💌：{{note_en.DATA}}
+      每日一句💌：
+      {{note_en.DATA}}
       
       
       {{comprehensive_horoscope.DATA}}
@@ -29,7 +30,8 @@ const TEMPLATE_CONFIG = [
       
       今天是我们相识的第{{love_day.DATA}}天❤️，爱你！
       
-      {{birthday_message.DATA}}，注意饮食哦~多喝水❤️
+      {{birthday_message.DATA}}
+      
       
       ---
       

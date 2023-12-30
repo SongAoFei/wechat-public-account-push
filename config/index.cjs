@@ -7,8 +7,6 @@
  */
 const USER_CONFIG = {
 
-  // 请将以下代码按照图示粘贴到对应位置
-  USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx6767f7605c909ab8',

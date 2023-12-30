@@ -10,10 +10,10 @@ const USER_CONFIG = {
 USE_PASSAGE: 'server-chan',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxd5b4805335bd69ce',
+  APP_ID: 'wx6767f7605c909ab8',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '5d8da0c146d7186a43eb8a63b0a7b228',
+  APP_SECRET: 'e03ba749efa988f9368d5cf7f864aafa',
 
   PROVINCE: '广东',
   CITY: '惠州',

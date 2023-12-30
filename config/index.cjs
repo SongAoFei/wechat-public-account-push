@@ -121,9 +121,6 @@ USE_PASSAGE: 'server-chan',
         {
           type: '节日', name: '三周年纪念日', year: '2024', date: '11-14',
         },
-        {
-          type: '节日', name: '生理期', year: '2024', date: '1-26',
-        },
       ],
         /**
    * 限制重要节日的展示条目, 需要填写数字;
